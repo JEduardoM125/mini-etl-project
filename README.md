@@ -124,17 +124,11 @@ Fecha y hora: 2024-12-19 15:30:00
 🎉 ¡Proyecto ETL completado exitosamente!
 Imagenes
 
-<img width="600" height="791" alt="etl1" src="https://github.com/user-attachments/assets/5b4db44b-023d-46a1-a676-7d226d507351" />
-
-<img width="600" height="744" alt="etl1 1" src="https://github.com/user-attachments/assets/166d1fb9-e063-4c44-9f58-3215797f7022" />
-
-<img width="600" height="767" alt="etl2" src="https://github.com/user-attachments/assets/482ec84e-7b5d-4d78-afbe-6a2013fe0444" />
-
-
-<img width="600" height="758" alt="etl2 1" src="https://github.com/user-attachments/assets/60e20ebe-6cd5-46b9-9bd8-ac952cadf09c" />
-
-
-<img width="600" height="178" alt="etl2 2" src="https://github.com/user-attachments/assets/c8028714-5a98-4d6c-b935-a039c20ffcfe" />
+![etl1](https://github.com/user-attachments/assets/5b4db44b-023d-46a1-a676-7d226d507351)
+![etl1 1](https://github.com/user-attachments/assets/166d1fb9-e063-4c44-9f58-3215797f7022)
+![etl2](https://github.com/user-attachments/assets/482ec84e-7b5d-4d78-afbe-6a2013fe0444)
+![etl2 1](https://github.com/user-attachments/assets/60e20ebe-6cd5-46b9-9bd8-ac952cadf09c)
+![etl2 2](https://github.com/user-attachments/assets/c8028714-5a98-4d6c-b935-a039c20ffcfe)
 
 
 ==================================================
