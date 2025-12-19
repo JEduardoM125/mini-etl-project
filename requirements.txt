@@ -1,0 +1,26 @@
+# ============================================
+# MINI ETL PROJECT - DEPENDENCIAS
+# Versiones 100% compatibles para Windows
+# ============================================
+
+
+# DATA SCIENCE CORE
+
+numpy==1.26.0
+
+
+pandas==2.1.4
+
+# WEB Y ARCHIVOS
+requests==2.31.0
+openpyxl==3.1.2
+
+# TESTING (opcional pero recomendado)
+pytest==7.4.3
+pytest-cov==4.1.0
+
+# FORMATTING (opcional)
+black==23.11.0
+flake8==6.1.0
+
+# Nota: Si usas Python 3.12+, cambia numpy a 1.26.0 y pandas a 2.1.4, estamos en 3.12.4

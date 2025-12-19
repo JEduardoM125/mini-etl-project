@@ -1,0 +1,32 @@
+# Entornos virtuales
+venv/
+env/
+ENV/
+
+# Datos y logs
+data/
+logs/
+*.log
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Sistema
+.DS_Store
+Thumbs.db
+
+# Archivos generados
+*.csv
+*.json
+*.xlsx
+*.xls
